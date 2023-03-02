@@ -8,7 +8,7 @@
 
   <cuerpo>
     <script>
-      consola.log("¡Hola mundo!")
+      consola.log("¡Hola soy ismael !")
     </script>
   </cuerpo>
 
